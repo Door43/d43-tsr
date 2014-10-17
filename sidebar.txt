@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsr:home|Door43 (tsr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsr|d43-tsr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsr/archive/master.zip|d43-tsr.zip]]
+
+**Recent Changes**
+{{changes>ns = tsr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsr|Ethnologue data]]
+
